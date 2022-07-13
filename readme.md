@@ -4,6 +4,8 @@ This is a React app built with Vite that draws two cards from a deck, then tabul
 
 ![./src/blackjack-preview.gif](./src/blackjack-preview.gif)
 
+**NOTE**: This project was built before I learned about `useState` or `useEffect`, so code may be more explicit as a result, since it's not using these React concepts.
+
 ### API
 This app uses the [Deck of Cards API](https://deckofcardsapi.com/) to draw the cards.
 
